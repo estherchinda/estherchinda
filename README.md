@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Esther Chinda, and I am a fullstack developer. I'm currently interning at @Bernode Hub, a remote tech company. I'm mainly interested in creating exciting user interfaces and writing logic for whatever project I have at hand.
+
+Merry Christmas everyone!
+
 <!--
 **estherchinda/estherchinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
