@@ -1,7 +1,7 @@
 ## Hello,
 
 I'm Esther.
-I'm a frontend website developer from Port Harcourt, Nigeria. I'm currently interning [@OlotuSquareSolutions](https://github.com/olotusquare) as a frontend developer in with React JS. In my free time, I enjoy solving puzzles, watching tiktoks or seeing a good horror movie
+I'm a frontend website developer from Port Harcourt, Nigeria. I'm currently interning [@Olotu Square](https://github.com/olotusquare) as a frontend developer in with React JS. In my free time, I enjoy solving puzzles, watching tiktoks or seeing a good horror movie
 
 <!--
 **estherchinda/estherchinda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
