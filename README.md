@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akachi</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=estherchinda&label=Profile%20views&color=0e75b6&style=flat" alt="estherchinda" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estherchinda" alt="estherchinda" /></a> </p>
 
 - 🔭 I’m currently working on [My Portfolio](http://estherchinda.vercel.app)
 
@@ -17,7 +14,6 @@
 
 - 📫 How to reach me **davidakachi9@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1Z3Th2MPyYjnudHVh1txr-kgBLCJnxGXlEKfIlR0apdE/edit?usp=sharing](https://docs.google.com/document/d/1Z3Th2MPyYjnudHVh1txr-kgBLCJnxGXlEKfIlR0apdE/edit?usp=sharing)
 
 - ⚡ Fun fact **I have no pets :)**
 
