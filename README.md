@@ -1,21 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
-
-
-- 🔭 I’m currently working on [My Portfolio](http://estherchinda.vercel.app)
-
-- 🌱 I’m currently learning **Next JS and Typescript**
-
-- 👯 I’m looking to collaborate on **other fun and new projects**
-
-- 👨‍💻 All of my projects are available at [http://estherchinda.vercel.app](http://estherchinda.vercel.app)
-
-- 💬 Ask me about **react, vue, nuxt js, or anything related!**
-
-- 📫 How to reach me **davidakachi9@gmail.com**
-
-
-- ⚡ Fun fact **I have no pets :)**
+<p>I'm a frontend developer based in Nigeria. I currently work for [Bernode Hub](https://github.com/Bernode-Hub). Previously I was a frontend developer for [Olotu Square](https://github.com/olotusquare). I enjoy learning new technologies and learning about creation processes for concepts. When I'm not coding, which is sometimes rare, I enjoy watching horror movies or taking a walk outside my home.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
