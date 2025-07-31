@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Esther</h1>
-<p>I'm a frontend developer based in Nigeria. I currently work for [Bernode Hub](https://github.com/Bernode-Hub). Previously I was a frontend developer for [Olotu Square](https://github.com/olotusquare). I enjoy learning new technologies and learning about creation processes for concepts. When I'm not coding, which is sometimes rare, I enjoy watching horror movies or taking a walk outside my home.</p>
+<p>I'm a frontend developer based in Nigeria. I currently work for (Bernode Hub)[https://github.com/Bernode-Hub]. Previously I was a frontend developer for (Olotu Square)[https://github.com/olotusquare]. I enjoy learning new technologies and learning about creation processes for concepts. When I'm not coding, which is sometimes rare, I enjoy watching horror movies or taking a walk outside my home.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
